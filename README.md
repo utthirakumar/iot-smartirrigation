@@ -57,8 +57,8 @@ design like this:
  
  10. start to flash the file into NodeMCU (Esp8266)
  
-
-
+````
+##steps
 11.extracted zip folder source->php page->testcode folder
 12.copy & paste into C:\xampp\htdocs
 13.run xamp software open any webbrowser 
@@ -86,12 +86,3 @@ import the file it will automatically load the strcture
 25.now you can see & access to the nodemcu 
 26.data will automatically stored to the mysql data base now you can see through the website also
 27.![image](https://user-images.githubusercontent.com/39646701/117170853-fe464200-ade7-11eb-95a5-6b78282c5f7b.png)
-
-
-
-
-
-
-
-````
-
