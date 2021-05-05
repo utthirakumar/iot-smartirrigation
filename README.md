@@ -73,16 +73,22 @@ import the file it will automatically load the strcture
 
 15.Turn on NodeMCU module 
 16.it will turn on the tempory hostpot 
-17.![image](https://user-images.githubusercontent.com/39646701/117170348-91cb4300-ade7-11eb-93a9-38dc0c9db7b1.png)
 
-18.now connect your pc to that 
+![image](https://user-images.githubusercontent.com/39646701/117170348-91cb4300-ade7-11eb-93a9-38dc0c9db7b1.png)
+
+17.now connect your pc to that 
+
 ![image](https://user-images.githubusercontent.com/39646701/117170372-9859ba80-ade7-11eb-8b24-3c2923eab5e0.png)
-19.set ssid & password
-20.![image](https://user-images.githubusercontent.com/39646701/117170434-a60f4000-ade7-11eb-8569-f932504f2b54.png)
-21.serial moniter generate a ip address:
-22.![image](https://user-images.githubusercontent.com/39646701/117170520-b9baa680-ade7-11eb-993c-63ed4c700816.png)
-23.copy & paste to the web browser
-24.![image](https://user-images.githubusercontent.com/39646701/117170602-ca6b1c80-ade7-11eb-9d7a-9a025b3b2c62.png)
-25.now you can see & access to the nodemcu 
-26.data will automatically stored to the mysql data base now you can see through the website also
-27.![image](https://user-images.githubusercontent.com/39646701/117170853-fe464200-ade7-11eb-95a5-6b78282c5f7b.png)
+18.set ssid & password
+
+![image](https://user-images.githubusercontent.com/39646701/117170434-a60f4000-ade7-11eb-8569-f932504f2b54.png)
+19.serial moniter generate a ip address:
+
+![image](https://user-images.githubusercontent.com/39646701/117170520-b9baa680-ade7-11eb-993c-63ed4c700816.png)
+20.copy & paste to the web browser
+
+![image](https://user-images.githubusercontent.com/39646701/117170602-ca6b1c80-ade7-11eb-9d7a-9a025b3b2c62.png)
+21.now you can see & access to the nodemcu 
+22.data will automatically stored to the mysql data base now you can see through the website also
+
+![image](https://user-images.githubusercontent.com/39646701/117170853-fe464200-ade7-11eb-95a5-6b78282c5f7b.png)
