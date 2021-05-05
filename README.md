@@ -92,3 +92,10 @@ import the file it will automatically load the strcture
 22.data will automatically stored to the mysql data base now you can see through the website also
 
 ![image](https://user-images.githubusercontent.com/39646701/117170853-fe464200-ade7-11eb-95a5-6b78282c5f7b.png)
+
+
+
+
+
+
+##thank you 
